@@ -5,8 +5,8 @@ import math
 STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc"
 ALPHA_ENDPOINT = 'https://www.alphavantage.co/query'
-ALPHA_API_KEY = '3PB0B1GDJP7N7Y3P'
-NEWS_API_KEY = '7ffa52331634471cb94884eda66ec0ea'
+ALPHA_API_KEY = your_api_key
+NEWS_API_KEY = your_api_key
 
 
 ## STEP 1: Use https://www.alphavantage.co
